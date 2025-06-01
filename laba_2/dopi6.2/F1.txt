@@ -1,0 +1,7 @@
+It's a simple way to understand the basic syntax of the language.
+Its creator, Guido van Rossum, wanted a name that was short, unique, and slightly mysterious.
+She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, and wrote the first algorithm intended to be processed by a machine.
+Developers share their code openly, allowing others to use, modify, and improve it. 
+Debugging Origins: The term "debugging" has an interesting origin story.
+They removed the moth and taped it to their logbook, coining the term "debugging."
+Whether it's learning a new language or contributing to an open-source project, there's always something exciting happening in the world of code! 
